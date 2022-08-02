@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.706d5e0a.css",
+    "main.js": "/react-portfolio/static/js/main.b5ea2465.js",
+    "static/media/coverPhoto.JPG": "/react-portfolio/static/media/coverPhoto.95523b2ed5f1db64e684.JPG",
+    "static/media/Kim, Nicholas Resume.pdf": "/react-portfolio/static/media/Kim, Nicholas Resume.6e9321499a7d56d5d338.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.706d5e0a.css.map": "/react-portfolio/static/css/main.706d5e0a.css.map",
+    "main.b5ea2465.js.map": "/react-portfolio/static/js/main.b5ea2465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706d5e0a.css",
+    "static/js/main.b5ea2465.js"
+  ]
+}
