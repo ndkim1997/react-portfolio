@@ -7,8 +7,8 @@ const projects = [
     id: 1,
     image: IMG1,
     title: 'Biola Database for Music Department',
-    github: 'https://github.com',
-    demo: 'https://github.com'
+    github: 'https://github.com/ndkim1997/Software-Engineering-Project',
+    // demo: 'https://github.com'
   },
   // {
   //   id: 2,
